@@ -3,48 +3,22 @@ cpp04/
 ├── ex00/
 │   ├── Makefile
 │   ├── main.cpp
-│   ├── Animal.cpp
-│   ├── Animal.hpp
-│   ├── Dog.cpp
-│   ├── Dog.hpp
-│   ├── Cat.cpp
-│   └── Cat.hpp
+│   ├── Animal.cpp/.hpp
+│   ├── Dog.cpp/.hpp
+│   └── Cat.hpp/.cpp
 ├── ex01/
 │   ├── Makefile
 │   ├── main.cpp
-│   ├── Animal.cpp
-│   ├── Animal.hpp
-│   ├── Dog.cpp
-│   ├── Dog.hpp
-│   ├── Cat.cpp
-│   ├── Cat.hpp
-│   ├── Brain.cpp
+│   ├── Animal.hpp/.cpp
+│   ├── Dog.hpp/.cpp
+│   ├── Cat.hpp/.cpp
 │   └── Brain.hpp
 ├── ex02/
-│   ├── Makefile
-│   ├── main.cpp
-│   ├── AAnimal.cpp
-│   ├── AAnimal.hpp
-│   ├── Dog.cpp
-│   ├── Dog.hpp
-│   ├── Cat.cpp
-│   ├── Cat.hpp
-│   ├── Brain.cpp
-│   └── Brain.hpp
-└── ex03/
     ├── Makefile
     ├── main.cpp
-    ├── AMateria.cpp
-    ├── AMateria.hpp
-    ├── Ice.cpp
-    ├── Ice.hpp
-    ├── Cure.cpp
-    ├── Cure.hpp
-    ├── ICharacter.hpp
-    ├── Character.cpp
-    ├── Character.hpp
-    ├── IMateriaSource.hpp
-    ├── MateriaSource.cpp
-    └── MateriaSource.hpp
+    ├── AAnimal.hpp/.cpp
+    ├── Dog.hpp/.cpp
+    ├── Cat.hpp/.cpp
+    └── Brain.hpp/.cpp
 
 ```
