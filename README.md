@@ -1,5 +1,3 @@
-# 🗂 Project Structure
-
 ```
 cpp04/
 ├── ex00/
@@ -50,10 +48,3 @@ cpp04/
     └── MateriaSource.hpp
 
 ```
-
-# 🎯 Module Overview
-This module covers advanced OOP concepts in C++, including:
-
-* Subtype polymorphism
-* Interfaces (pure abstract classes)
-* Virtual destructors
